@@ -3,7 +3,7 @@
 - 👀 Passionate about Crypto, DeFi, and making Finance fairer for everyone
 - 🌱 Currently exploring and mastering data science, especially in the context of Crypto and DeFi
 - 💞️ Looking to collaborate on innovative projects in the Crypto and Finance space
-- 📫 I’m always open to collaborating on projects. Feel free to reach out to me through: https://www.linkedin.com/in/natalie-lunau-data/
+- 📫 How to reach me: https://www.linkedin.com/in/natalie-lunau-data/
 - ⚡ Fun fact: Before I became a coder, I was a psychotherapist, so I have experience debugging both minds and code
 
 <!---
