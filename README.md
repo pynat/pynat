@@ -4,7 +4,7 @@
 - 🌱 Currently exploring and mastering data science, especially in the context of Crypto and DeFi
 - 💞️ Looking to collaborate on innovative projects in the Crypto and Finance space
 - 📫 How to reach me: https://www.linkedin.com/in/natalie-lunau-data/
-- ⚡ Fun fact: Before I became a coder, I was a psychotherapist, so I have experience debugging both minds and code
+- ⚡ Fun fact: I am a former psychotherapist, so I have experience debugging both minds and code
 
 <!---
 pynat/pynat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
