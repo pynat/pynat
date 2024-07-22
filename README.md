@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pynat
-- 👀 I’m interested in Crypto, DeFi and making Finance more fair
-- 🌱 I’m currently learning to create a predictive model for cryptocurrencies for swing trading
-- 💞️ I’m looking to collaborate on everything Crypto and Finance
-- 📫 How to reach me: https://www.linkedin.com/in/natalie-lunau-data/
+- 👋 Hi, I’m @pynat. Welcome to my GitHub profile
+- 👀 I’m into Crypto, DeFi and and advancing financial equity through technology
+- 🌱 I’m currently exploring and mastering data science, especially in the context of Crypto and DeFi
+- 💞️ I’m looking to contribute to open-source projects and to collaborate with others in the crypto and finance community
+- 📫 I’m always open to collaborating on projects related to crypto, DeFi, and finance. Feel free to reach out to me through: https://www.linkedin.com/in/natalie-lunau-data/
 - ⚡ Fun fact: Before I became a coder, I was a psychotherapist, so I have experience debugging both minds and code
 
 <!---
