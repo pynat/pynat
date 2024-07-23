@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pynat
 
-- 👀 Passionate about Crypto, DeFi, and making Finance fairer for everyone
+- 👀 Passionate about Crypto, DeFi, and making Finance fairer
 - 🌱 Currently exploring and mastering data science, especially in the context of Crypto and DeFi
 - 💞️ Looking to collaborate on innovative projects in the Crypto and Finance space
 - 📫 How to reach me: www.linkedin.com/in/nl-data-defi
