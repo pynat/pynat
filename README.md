@@ -1,8 +1,8 @@
  🦄 Hi, I’m pynat
 
 **Passionate about:**  
-- **Crypto & Web3**: Advocating for fairer and more transparent financial systems  
-- **Data Science**: Leveraging data to bring actionable insights to the Web3 ecosystem  
+- **Crypto & Web3**: Advocating for fairer, more transparent financial systems and decentralized solutions
+- **Data Science**: Using data to uncover patterns, improve decision-making, and build machine learning solutions that support innovation in the Web3 space
 - **Machine Learning**: Exploring predictive models and anomaly detection for cryptocurrencies and trading models
     
 **Currently working on:**  
