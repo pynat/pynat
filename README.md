@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23E5A4D5.svg?style=flat&logo=googlecolab&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Plotly-%2300395C.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%23E34F26.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-   <img src="https://img.shields.io/badge/Dune%20Analytics-%23FF4500.svg?style=flat" alt="Dune Analytics" />
+   <img src="https://img.shields.io/badge/Flask-%23FF4500.svg?style=flat" alt="Dune Analytics" />
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Web3-%2300AAFF.svg?style=flat&logo=ethereum&logoColor=white" alt="Web3" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
