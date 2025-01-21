@@ -15,8 +15,7 @@
 ⚡ As a former psychotherapist, I bring a unique perspective on building trust and transparency in decentralized systems   
 
 
-
-
+**Where I am trying to get really good at:**  
   
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
