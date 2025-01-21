@@ -4,16 +4,19 @@
 - **Crypto & Web3**: Advocating for fairer, more transparent financial systems and decentralized solutions
 - **Data Science**: Using data to uncover patterns, improve decision-making, and build machine learning solutions that support innovation in the Web3 space
 - **Machine Learning**: Exploring predictive models and anomaly detection for cryptocurrencies and trading models
+  <p>
     
 **Currently working on:**  
-- Analyzing Stablecoin behaviors with predictive models to identify anomalies and liquidity events  
+- Building predictive models to detect anomalies in stablecoin liquidity and enhance early warning systems
 - Developing a Trading Bot for spot trading, integrating feature engineering and optimization strategies 
-
+<p>
+ 
 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/nl-data-defi)  
-
+<p>
+ 
 ⚡ As a former psychotherapist, I bring a unique perspective on building trust and transparency in decentralized systems   
-
+<p>
 
 **Where I am trying to get really good at:**  
   
