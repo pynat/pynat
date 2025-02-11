@@ -7,8 +7,8 @@
   <p>
     
 **Currently working on:**  
-- Building predictive models to detect anomalies in stablecoin liquidity and enhance early warning systems
-- Developing a Trading Bot for spot trading, integrating feature engineering and optimization strategies 
+- Building predictive models integrating feature engineering 
+- Developing a Trading Bot for spot trading with and optimization strategies 
 <p>
  
 **How to reach me:**  
