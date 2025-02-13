@@ -7,8 +7,8 @@
   <p>
     
 **Currently working on:**  
-- Building predictive models integrating feature engineering 
-- Developing a Trading Bot for spot trading with and optimization strategies 
+- Building predictive models
+- Developing a Trading Bot for spot trading
 <p>
  
 **How to reach me:**  
