@@ -7,7 +7,6 @@
   <p>
     
 **Currently working on:**  
-- Building predictive models
 - Developing Strategies for a Self-Built Trading Bot for Perpetual Trading
 <p>
  
