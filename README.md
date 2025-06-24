@@ -8,14 +8,14 @@
     
 **Currently working on:**  
 - Building predictive models
-- Developing a Trading Bot for spot trading
+- Developing Strategies for a Self-Built Trading Bot for Perpetual Trading
 <p>
  
 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/nl-data-defi)  
 <p>
  
-⚡ As a former psychotherapist, I bring a unique perspective on building trust and transparency in decentralized systems   
+⚡ As a former psychotherapist, I bring a different perspective on building trust and transparency in decentralized systems   
 <p>
 
 **Where I am trying to get really good at:**  
