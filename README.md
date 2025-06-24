@@ -7,7 +7,7 @@
   <p>
     
 **Currently working on:**  
-- Developing Strategies for a Self-Built Trading Bot for Perpetual Trading
+- Developing strategies for a self-built trading bot focused on perpetual futures
 <p>
  
 **How to reach me:**  
