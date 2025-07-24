@@ -1,9 +1,11 @@
  🦄 Hi, I’m pynat
 
+A former psychotherapist turned data scientist. I am passionate about building transparent, ethical systems in Web3 and financial data science.
+
 **Passionate about:**  
-- **Crypto & Web3**: Advocating for fairer, more transparent financial systems and decentralized solutions
-- **Data Science**: Using data to uncover patterns, improve decision-making, and build machine learning solutions that support innovation in the Web3 space
-- **Machine Learning**: Exploring predictive models and anomaly detection for cryptocurrencies and trading models
+- **Crypto & Web3**: Advocating for fairer financial systems and decentralized solutions
+- **Data Science & Analytics**: Uncovering patterns, making data driven decisions and communicating insights
+- **Machine Learning**: Exploring predictive models, anomaly detection, and market dynamics
   <p>
     
 **Currently working on:**  
@@ -14,10 +16,8 @@
 - [LinkedIn](https://www.linkedin.com/in/nl-data-defi)  
 <p>
  
-⚡ As a former psychotherapist, I bring a different perspective on building trust and transparency in decentralized systems   
-<p>
 
-**Where I am trying to get really good at:**  
+**Skills & Tools:**  
   
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
