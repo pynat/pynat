@@ -1,6 +1,6 @@
  🦄 Hi, I’m pynat
 
-A former psychotherapist turned data scientist. I am passionate about building transparent, ethical systems in Web3 and financial data science.
+A former psychotherapist turned data scientist. 
 
 **Passionate about:**  
 - **Crypto & Web3**: Advocating for fairer financial systems and decentralized solutions
