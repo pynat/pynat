@@ -42,7 +42,7 @@ A former psychotherapist turned data scientist.
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 <!-- Web3 (Optional if applicable) -->
-<img src="https://img.shields.io/badge/Web3.py-%23040404.svg?style=flat&logo=ethereum&logoColor=white" alt="Web3.py" />
+<img src="https://img.shields.io/badge/Web3-%23040404.svg?style=flat&logo=ethereum&logoColor=white" alt="Web3.py" />
 <img src="https://img.shields.io/badge/APIs-%23009688.svg?style=flat&logo=api&logoColor=white" alt="API Access" />
 
 
