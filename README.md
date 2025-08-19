@@ -3,17 +3,22 @@
 A former psychotherapist turned data scientist. 
 
 **Passionate about:**  
-- **Crypto & Web3**: Advocating for fairer financial systems and decentralized solutions
-- **Data Science & Analytics**: Uncovering patterns, making data driven decisions and communicating insights
-- **Machine Learning**: Exploring predictive models, anomaly detection, and market dynamics
+- **Data Science & Analytics**: Statistical modeling, uncovering patterns, data driven decisions and communicating insights
+- **Applied Machine Learning**: Building predictive models, anomaly detection, and market dynamics
+- **Financial Technology**: Developing data-driven solutions for trading, risk assessment, and market analysis
+
   <p>
     
-**Currently working on:**  
-- Developing strategies for a self-built trading bot focused on perpetual futures
+**Currently working on:**
+* End-to-end ML pipelines for algorithmic trading and market anomaly detection
+* Causal inference frameworks for understanding complex behavioral patterns
 <p>
+
+
+
  
 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/nl-data-defi)  
+- [LinkedIn](https://www.www.linkedin.com/in/nl-data-finance 
 <p>
  
 
