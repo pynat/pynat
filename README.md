@@ -18,7 +18,7 @@ A former psychotherapist turned data scientist.
 
  
 **How to reach me:**  
-- [LinkedIn](https://www.www.linkedin.com/in/nl-data-finance 
+- [LinkedIn](https://www.www.linkedin.com/in/nl-data-finance)
 <p>
  
 
