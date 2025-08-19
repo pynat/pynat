@@ -3,8 +3,8 @@
 A former psychotherapist turned data scientist. 
 
 **Passionate about:**  
-- **Data Science & Analytics**: Statistical modeling, uncovering patterns, decisions and communicating insights
-- **Applied Machine Learning**: Building predictive models, anomaly detection, and market dynamics
+- **Data Science & Analytics**: Statistical modeling, pattern recognition, decisions and communicating insights
+- **Applied Machine Learning**: Building predictive models, anomaly detection
 - **Financial Technology**: Developing data-driven solutions for trading, risk assessment, and market analysis
 
   <p>
