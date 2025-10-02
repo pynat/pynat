@@ -11,7 +11,6 @@ A former psychotherapist turned data scientist.
     
 **Currently working on:**
 * End-to-end ML pipelines for algorithmic trading and market anomaly detection
-* Causal inference frameworks for understanding complex behavioral patterns
 <p>
 
 
