@@ -1,4 +1,4 @@
- 🦄 Hi, I’m pynat
+Hi, I’m pynat
 
 A former psychotherapist turned data scientist. 
 
