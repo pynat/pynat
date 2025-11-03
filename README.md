@@ -1,16 +1,16 @@
 Hi, I’m pynat
 
-A former psychotherapist turned data scientist. 
+A former psychotherapist turned data analyst. 
 
 **Passionate about:**  
-- **Data Science & Analytics**: Statistical modeling, pattern recognition, decisions and communicating insights
-- **Applied Machine Learning**: Building predictive models, anomaly detection
-- **Applied Data Solutions**: Developing data-driven solutions, risk assessment, and market analysis
-
+- **Data Analytics**: statistical modeling, pattern recognition, uncovering structures and communicating insights
+- **Pattern Recognition**: detecting anomalies, identifying trends, and validating results
+- **Applied Data Solutions**: developing reproducible, end-to-end analytical systems for structured decision support
   <p>
     
 **Currently working on:**
-* End-to-end ML pipelines for algorithmic trading and market anomaly detection
+* automating data pipelines and statistical models for time series analysis and decision support
+* sharpening my math skills
 <p>
 
 
