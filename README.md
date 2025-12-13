@@ -1,6 +1,6 @@
 Hi, I’m pynat
 
-A former psychotherapist turned data analyst. 
+A former psychotherapist turned quantitative data professional. 
 
 **Passionate about:**  
 - **Data Analytics**: statistical modeling, pattern recognition, uncovering structures and communicating insights
