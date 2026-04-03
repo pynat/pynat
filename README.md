@@ -1,6 +1,6 @@
 Hi, I’m pynat
 
-A former psychotherapist turned data professional. 
+A former clinical psychologist turned data professional. 
 
 **Passionate about:**  
 - **Data**: statistical modeling, pattern recognition, uncovering structures and communicating insights
