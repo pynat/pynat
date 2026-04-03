@@ -1,6 +1,6 @@
 Hi, I’m pynat
 
-A clinical psychologist turned data professional. 
+A clinical psychologist who became a a data professional.
 
 **Passionate about:**  
 - **Data**: statistical modeling, uncovering structures and communicating insights
