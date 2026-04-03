@@ -3,7 +3,7 @@ Hi, I’m pynat
 A former clinical psychologist turned data professional. 
 
 **Passionate about:**  
-- **Data**: statistical modeling, pattern recognition, uncovering structures and communicating insights
+- **Data**: statistical modeling, uncovering structures and communicating insights
 - **Pattern Recognition**: detecting anomalies, identifying trends, and validating results
 - **Applied Solutions**: developing reproducible, end-to-end analytical systems for structured decision support
   <p>
