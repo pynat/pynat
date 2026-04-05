@@ -36,18 +36,11 @@ A clinical psychologist turned data professional.
 <!-- DevOps & Infrastructure -->
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Cloud%20Deployment-%23009688.svg?style=flat&logo=cloudflare&logoColor=white" alt="Cloud Deployment" />
 
 
-<!-- IDEs & Notebooks -->
-<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
-<img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat&logo=google-colab&logoColor=white" alt="Google Colab" />
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
 <!-- Web3 (Optional if applicable) -->
 <img src="https://img.shields.io/badge/Web3-%23040404.svg?style=flat&logo=ethereum&logoColor=white" alt="Web3.py" />
-<img src="https://img.shields.io/badge/APIs-%23009688.svg?style=flat&logo=api&logoColor=white" alt="API Access" />
 
 
 </p>
