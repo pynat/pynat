@@ -5,14 +5,13 @@ A clinical psychologist turned data professional.
 **Passionate about:**  
 - **Data**: statistical modeling, uncovering structures and communicating insights
 - **Pattern Recognition**: detecting anomalies, identifying trends, and validating results
-- **Applied Solutions**: developing reproducible, end-to-end analytical systems for structured decision support
+- **Applied Solutions**: building reproducible end-to-end analytical pipelines for structured decision support
   <p>
     
 **Currently working on:**
-* automating data pipelines and statistical models for time series analysis and decision support
+* statistical models for time series analysis and decision support, forecasting and signal validation
 * sharpening my math skills
 <p>
-
 
 
  
@@ -34,7 +33,7 @@ A clinical psychologist turned data professional.
 <!-- DevOps & Infrastructure -->
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Cloud%20Deployment-%23009688.svg?style=flat&logo=cloudflare&logoColor=white" alt="Cloud Deployment" />
+
 
 
 <!-- Web3 (Optional if applicable) -->
