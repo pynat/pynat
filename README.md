@@ -30,9 +30,6 @@ A clinical psychologist turned data professional.
 <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Matplotlib-%230C5D9D.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Plotly-%23040D21.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-
 
 <!-- DevOps & Infrastructure -->
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
