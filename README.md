@@ -1,8 +1,7 @@
 Hi, I am Natalie
 
 A clinical psychologist turned data professional.
-I build quantitative systems and study why markets behave 
-the way they do.
+
 
 **What I work on:**  
 - Time series analysis, regime detection, and signal validation
