@@ -1,16 +1,22 @@
-Hi, I’m pynat
+Hi, I am Natalie
 
 A clinical psychologist turned data professional.
 
-**Passionate about:**  
-- **Data**: statistical modeling, uncovering structures and communicating insights
-- **Pattern Recognition**: detecting anomalies, identifying trends, and validating results
-- **Applied Solutions**: building reproducible end-to-end analytical pipelines for structured decision support
+**What I work on:**  
+- Time series analysis, regime detection, and signal validation
+- ML pipelines with methodology: causal feature selection, leakage prevention, walk-forward validation
+- Volatility modeling and risk quantification
+- Translating complex model outputs into business value
   <p>
     
-**Currently working on:**
-* statistical models for time series analysis and decision support, forecasting and signal validation
-* sharpening my math skills
+**What I bring from Psychology to Data:**
+* Finding patterns
+* Critical thinking and questioning assumptions
+* Structured reasoning and connecting complex relationships
+* Hypothesis testing: verification and falsification
+* Risk assessment under uncertainty and incomplete information
+* Identifying states and transitions
+* Academic research methodology and study design
 <p>
 
 
