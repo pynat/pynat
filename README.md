@@ -2,7 +2,7 @@ Hi, I am Natalie
 
 A clinical psychologist turned data professional.
 
-**What I work on:**  
+**Core Competencies:**  
 - Time series analysis, regime detection, and signal validation
 - ML pipelines with methodology: causal feature selection, leakage prevention, walk-forward validation
 - Volatility modeling and risk quantification
@@ -10,7 +10,6 @@ A clinical psychologist turned data professional.
   <p>
     
 **What I bring from Psychology to Data:**
-* Finding patterns
 * Critical thinking and questioning assumptions
 * Structured reasoning and connecting complex relationships
 * Hypothesis testing: verification and falsification
@@ -21,12 +20,12 @@ A clinical psychologist turned data professional.
 
 
  
-**How to reach me:**  
+**Reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/nl-data)
 <p>
  
 
-**Skills & Tools:**  
+**Skills:**  
   
 <p>
 <!-- Data Science & ML -->
