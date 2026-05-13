@@ -1,21 +1,24 @@
 Hi, I am Natalie
 
 A clinical psychologist turned data professional.
+I build quantitative systems and study why markets behave 
+the way they do.
 
-**Core Competencies:**  
+**What I work on:**  
 - Time series analysis, regime detection, and signal validation
 - ML pipelines with methodology: causal feature selection, leakage prevention, walk-forward validation
 - Volatility modeling and risk quantification
-- Translating complex model outputs into business value
+- Communicating model limitations and results to 
+  non-technical stakeholders
   <p>
     
 **What I bring from Psychology to Data:**
-* Critical thinking and questioning assumptions
-* Structured reasoning and connecting complex relationships
 * Hypothesis testing: verification and falsification
 * Risk assessment under uncertainty and incomplete information
-* Identifying states and transitions
-* Academic research methodology and study design
+* Critical thinking and questioning assumptions
+* Structured reasoning and connecting complex relationships
+* Identifying states and transitions in complex systems
+* Academic research methodology
 <p>
 
 
