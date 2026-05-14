@@ -12,9 +12,10 @@ A clinical psychologist turned data professional.
   <p>
     
 **What I bring from Psychology to Data:**
+* Contextual thinking, transfer thinking and questioning assumptions
+* Multi-level analysis
 * Hypothesis testing: verification and falsification
 * Risk assessment under uncertainty and incomplete information
-* Critical thinking and questioning assumptions
 * Structured reasoning and connecting complex relationships
 * Identifying states and transitions
 * Academic research methodology
