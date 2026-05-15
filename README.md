@@ -21,6 +21,7 @@ A clinical psychologist turned data professional.
 * Structured reasoning and connecting complex relationships
 * Identifying states and transitions
 * Academic research methodology
+* Staying curious
 <br>
 
 
