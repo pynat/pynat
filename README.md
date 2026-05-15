@@ -14,6 +14,7 @@ A clinical psychologist turned data professional.
          
 **What I bring from Psychology to Data:**
 * Insights into human decision making
+* Creative problemsolving
 * Contextual and transfer thinking and questioning assumptions
 * Multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
