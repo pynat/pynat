@@ -9,8 +9,7 @@ A clinical psychologist turned data professional.
 - Volatility modeling and risk quantification
 - Communicating model limitations and results to 
   non-technical stakeholders
-<p>   
-</p>
+<br><br>
          
 **What I bring from Psychology to Data:**
 * Insights into human decision making
@@ -21,7 +20,7 @@ A clinical psychologist turned data professional.
 * Structured reasoning and connecting complex relationships
 * Identifying states and transitions
 * Academic research methodology
-<p>
+<br>
 
 
  
