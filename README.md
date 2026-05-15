@@ -2,6 +2,7 @@ Hi, I am Natalie
 
 A clinical psychologist turned data professional.
 <br>
+<br>
 
 **What I work on:**  
 - Time series analysis, regime detection, and signal validation
