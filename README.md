@@ -1,6 +1,6 @@
 Hi, I am Natalie
 
-Clinical psychologist building machine learning for quantitative finance.
+Clinical psychologist turned machine learning practitioner, focused on quantitative finance.
 <br>
 <br>
 
@@ -12,12 +12,11 @@ Clinical psychologist building machine learning for quantitative finance.
   
 <br><br>
          
-**What I bring from Psychology to Data:**
+**What I bring from Psychology:**
 * Understanding of human decision making
-* Contextual & transfer thinking and multi-level analysis on complexity
+* Contextual & transfer thinking, multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
-* Risk assessment, structured reasoning and identifying states and transitions
-* Academic research methodology
+* Risk assessment, structured reasoning, identifying states and transitions
 * Creative problem solving
 * Staying curious
 <br>
