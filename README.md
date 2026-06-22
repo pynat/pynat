@@ -1,6 +1,6 @@
 Hi, I am Natalie
 
-A clinical psychologist turned data professional.
+Clinical psychologist turned machine learning practitioner, focused on quantitative finance.
 <br>
 <br>
 
@@ -13,12 +13,12 @@ A clinical psychologist turned data professional.
 <br><br>
          
 **What I bring from Psychology to Data:**
-* Understanding about human decision making
+* Understanding of human decision making
 * Contextual & transfer thinking and multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
 * Risk assessment, structured reasoning and identifying states and transitions
 * Academic research methodology
-* Creative problemsolving
+* Creative problem solving
 * Staying curious
 <br>
 
