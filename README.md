@@ -1,15 +1,15 @@
 Hi, I am Natalie
 
-Clinical psychologist turned machine learning practitioner, focused on quantitative finance.
+Clinical psychologist building machine learning for quantitative finance.
 <br>
 <br>
 
-**What I work on:**  
-- Time series analysis, regime detection, and signal validation
-- ML pipelines with methodology: causal feature selection, leakage prevention, walk-forward validation
-- Volatility modeling and risk quantification
-- Communicating model limitations and results to 
-  non-technical stakeholders
+**Current focus:**  
+- Time series modeling & regime detection
+- Machine learning for financial markets
+- Robust validation (walk-forward, leakage prevention)
+- Volatility & risk modeling
+  
 <br><br>
          
 **What I bring from Psychology to Data:**
