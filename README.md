@@ -10,7 +10,7 @@ Clinical psychologist turned machine learning practitioner, focused on quantitat
 - Statistical model validation
 - Volatility and risk modeling
   
-<br><br>
+<br>
          
 **What I bring from Psychology:**
 * Understanding of human decision making
