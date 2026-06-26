@@ -16,7 +16,7 @@ Clinical psychologist turned machine learning practitioner, focused on quantitat
 * Understanding of human decision making
 * Contextual & transfer thinking, multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
-* Risk assessment, structured reasoning, identifying states and transitions
+* Risk assessment, structured reasoning, working with uncertainty
 * Creative problem solving
 * Staying curious
 <br>
