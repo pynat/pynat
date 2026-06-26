@@ -40,7 +40,18 @@ Clinical psychologist turned machine learning practitioner, focused on quantitat
 
 <!-- DevOps & Infrastructure -->
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
+
+<!-- Development -->
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/LightGBM-02569B.svg?style=flat&logoColor=white" alt="LightGBM" />
+<img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=flat&logoColor=white" alt="MLflow" />
+
+<!-- Statistics -->
+<img src="https://img.shields.io/badge/statsmodels-4B8BBE.svg?style=flat&logoColor=white" alt="statsmodels" />
+<img src="https://img.shields.io/badge/arch-5A5A5A.svg?style=flat&logoColor=white" alt="arch" />
 
 
 
