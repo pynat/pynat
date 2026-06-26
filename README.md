@@ -18,7 +18,7 @@ Clinical psychologist turned machine learning practitioner, focused on quantitat
 * Hypothesis testing: verification and falsification
 * Risk assessment, structured reasoning, working with uncertainty
 * Creative problem solving
-* Staying curious
+* Staying curious as well as critical with given information
 <br>
 
 
