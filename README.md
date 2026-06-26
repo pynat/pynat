@@ -5,10 +5,10 @@ Clinical psychologist turned machine learning practitioner, focused on quantitat
 <br>
 
 **Current focus:**  
-- Time series modeling & regime detection
-- Machine learning for financial markets
-- Robust validation (walk-forward, leakage prevention)
-- Volatility & risk modeling
+- Systematic trading research
+- Market regime detection
+- Robust machine learning validation
+- Risk-aware predictive modeling
   
 <br><br>
          
