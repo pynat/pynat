@@ -1,14 +1,13 @@
 Hi, I am Natalie
 
-Clinical psychologist turned machine learning practitioner, focused on quantitative finance.
+Clinical psychologist turned turned independent ML researcher.
 <br>
 <br>
 
 **Current focus:**  
-- Machine learning for systematic trading
-- Time series & market regime modeling
-- Statistical model validation
-- Volatility and risk modeling
+- Empirical ML research & model evaluation
+- Statistical modeling, causal inference & time series
+
   
 <br>
          
