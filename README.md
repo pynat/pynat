@@ -1,18 +1,19 @@
 Hi, I am Natalie
 
-Clinical psychologist turned turned independent ML researcher.
+Clinical psychologist turned independent ML researcher. Initially focused on quantitative research, but needed to come back to the positive impact, so I discovered AI safety in a full-circle moment. I now focus on empirical research on model behavior, trying to find entry into the field.
+
 <br>
 <br>
 
 **Current focus:**  
+- Upskilling in Mechanistic Interpretability
 - Empirical ML research & model evaluation
-- Statistical modeling, causal inference & time series
 
   
 <br>
          
 **What I bring from Psychology:**
-* Understanding of human decision making
+* Certain understanding of human decision making
 * Contextual & transfer thinking, multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
 * Risk assessment, structured reasoning, working with uncertainty
