@@ -16,7 +16,7 @@ Clinical psychologist who fell in love with ML and Math. Initially focused on qu
 * Certain understanding of human decision making
 * Contextual & transfer thinking, multi-level analysis on complexity
 * Hypothesis testing: verification and falsification
-* Risk assessment, structured reasoning, working with uncertainty
+* Risk assessment, structuring, diagnostics, working with uncertainty
 * Creative problem solving
 * Staying curious as well as critical with given information
 <br>
