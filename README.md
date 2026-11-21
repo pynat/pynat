@@ -1,6 +1,6 @@
 Hi, I am Natalie
 
-Clinical psychologist who fell in love with ML and Math. Initially focused on quantitative research, but needed to come back to the positive impact -> discovered AI safety in a full-circle moment. I now try to focus on empirical research on model behavior and introspection.
+Clinical psychologist who fell in love with ML and Math. Initially focused on quantitative research, but needed to come back to the positive impact -> discovered AI safety in a full-circle moment. I now try to focus on the intersection of model psychology, internal representations and alignment.
 
 <br>
 <br>
